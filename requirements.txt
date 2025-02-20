@@ -9,4 +9,9 @@ Flask
 dill
 nltk 
 transformers
+datasets
+SpaCy
+TensorFlow 
+Torch
+tf-keras-vis
 -e .
